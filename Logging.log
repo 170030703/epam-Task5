@@ -1,0 +1,9 @@
+2020-02-25 15:37:17,136(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price288.0
+2020-02-25 15:37:17,141(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):30 - Total price1223.9999771118164
+2020-02-25 15:37:44,838(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:37:44,844(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
+2020-02-25 16:07:08,521(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):30 - Total Cost18000.0
+2020-02-25 16:07:54,772(YYYY-MM-DD HH:mm:ss) DEBUG Houserent.class(1):30 - Total Cost18000.0
+2020-02-25 16:10:02,221(YYYY-MM-DD HH:mm:ss) DEBUG Houserent.class(1):34 - Total Cost18000.0
+2020-02-25 16:10:29,746(YYYY-MM-DD HH:mm:ss) WARN  Houserent.class(1):13 - area is zero
+2020-02-25 16:10:29,762(YYYY-MM-DD HH:mm:ss) DEBUG Houserent.class(1):34 - Total Cost0.0
