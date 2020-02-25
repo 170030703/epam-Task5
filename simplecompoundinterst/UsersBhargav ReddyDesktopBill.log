@@ -1,0 +1,14 @@
+2020-02-25 15:00:27,432(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price288.0
+2020-02-25 15:00:27,465(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):30 - Total price1223.9999771118164
+2020-02-25 15:01:08,510(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price288.0
+2020-02-25 15:01:08,515(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):30 - Total price1223.9999771118164
+2020-02-25 15:01:41,461(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:01:41,467(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
+2020-02-25 15:04:12,682(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:04:12,688(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
+2020-02-25 15:05:06,977(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:05:06,982(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
+2020-02-25 15:05:59,493(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:05:59,498(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
+2020-02-25 15:07:08,989(YYYY-MM-DD HH:mm:ss) WARN  Interest.class(1):15 - pricipal or rate of interst or time is 0
+2020-02-25 15:07:08,995(YYYY-MM-DD HH:mm:ss) DEBUG Interest.class(1):18 - Total price0.0
